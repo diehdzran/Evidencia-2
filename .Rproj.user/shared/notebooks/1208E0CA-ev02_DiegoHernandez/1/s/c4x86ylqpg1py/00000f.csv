@@ -1,0 +1,5 @@
+"0","dna_sequences <- readDNAStringSet(files)"
+"0",""
+"0","sequences_list <- as.character(dna_sequences)"
+"0","sequences_list <- strsplit(sequences_list, """")"
+"0","names(sequences_list) <- paises"

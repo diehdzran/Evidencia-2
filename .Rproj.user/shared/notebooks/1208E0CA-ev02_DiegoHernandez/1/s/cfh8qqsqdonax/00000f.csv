@@ -1,0 +1,2 @@
+"0","dist_matrix <- dist(counts)"
+"0","hc <- hclust(dist_matrix, method = ""complete"")"
