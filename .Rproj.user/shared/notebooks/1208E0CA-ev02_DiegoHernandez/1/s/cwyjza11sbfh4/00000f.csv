@@ -1,5 +1,0 @@
-"0","plot(as.dendrogram(hc), "
-"0","     main = ""Árbol Filogenético Variantes de SARS-CoV-2 a nivel mundial"","
-"0","     ylab = ""Distancia Genética"","
-"0","     xlab = """", "
-"0","     sub = """")"
